@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728965078801",
+    "firebase_url": "https://chatapplication-100cc.firebaseio.com",
+    "project_id": "chatapplication-100cc",
+    "storage_bucket": "chatapplication-100cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728965078801:android:cd67ff7043e05a16",
+        "android_client_info": {
+          "package_name": "com.example.hardikrana.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728965078801-pleek56a77u8pkop42u3f10jcmch284t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hardikrana.chatapplication",
+            "certificate_hash": "cefb477289d7573a3690c6b68fd10de4c0a6a3bc"
+          }
+        },
+        {
+          "client_id": "728965078801-452ldbtis8s94a6o2pvhia52l9u1it63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZhHbhmkm_o3PgmdljjVg-QZBiC5Ir08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728965078801-452ldbtis8s94a6o2pvhia52l9u1it63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
