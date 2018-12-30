@@ -10,4 +10,6 @@
     <string name="logout">Logout</string>
     <string name="all_users">All users</string>
     <string name="account_settings">Account settings</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="are_you_a_new_user">Are you a new user?</string>
 </resources>
