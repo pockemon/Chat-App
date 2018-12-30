@@ -85,6 +85,8 @@ public class RegisterActivity extends AppCompatActivity {
                     mRegProgress.dismiss();
 
                     Intent MainIntent = new Intent(RegisterActivity.this, MainActivity.class);
+                    //When you hit back button form your android,it will not redirect you to start activity
+                    MainIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(MainIntent);
                     finish();
 
