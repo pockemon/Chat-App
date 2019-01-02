@@ -24,4 +24,8 @@
     <string name="chat_fragment">Chat Fragment</string>
     <string name="requests_fragment">Requests Fragment</string>
     <string name="friends_fragment">Friends Fragment</string>
+    <string name="displayname">DisplayName</string>
+    <string name="hi_there_i_m_using_chat_app">Hi there,I\'m using chat App.</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
 </resources>

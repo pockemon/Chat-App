@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "728965078801-9n82khe8i77e8j1rktummdfn2g5qc9kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hardikrana.chatapplication",
+            "certificate_hash": "2faaea282cd8f3a6093d42e4efd810bc734be2c7"
+          }
+        },
+        {
           "client_id": "728965078801-452ldbtis8s94a6o2pvhia52l9u1it63.apps.googleusercontent.com",
           "client_type": 3
         }
